@@ -1,4 +1,4 @@
-# Introducción a pandas
+# Introducción a anlisis de datos con pandas
 - Proyecto desarrollado para webinar en el Colegio de Ingenieros del Perú - Lambayeque
 
 - Proyecto desarrollado con jupyter, pandas y python 3.8+
