@@ -1,7 +1,7 @@
 # Introducción a pandas
-Proyecto desarrollado para webinar en el Colegio de Ingenieros del Perú - Lambayeque
+- Proyecto desarrollado para webinar en el Colegio de Ingenieros del Perú - Lambayeque
 
-Proyecto desarrollado con jupyter, pandas y python 3.8+
+- Proyecto desarrollado con jupyter, pandas y python 3.8+
 
 ### Crear virtual env
 ```bash
